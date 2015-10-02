@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://MisterY.github.io
+title: MMEX Releases
+tagline: MoneyManagerEx for Android
+description: Release log for the app
+paginate: 5
